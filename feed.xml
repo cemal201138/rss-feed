@@ -4,34 +4,90 @@
         <title>Rastgele Sözler Akışı</title>
         <link>https://github.com/cemal201138/rss-feed</link>
         <description>Her saat rastgele karıştırılan güncel sözler feed'i.</description>
-        <lastBuildDate>Sat, 23 May 2026 15:15:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 May 2026 15:17:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions RSS Generator</generator>
         <language>tr</language>
         <copyright>Tüm Hakları Saklıdır 2026</copyright>
         <item>
-            <title><![CDATA[Söz 1]]></title>
+            <title><![CDATA[Söz 10]]></title>
             <link>https://github.com/cemal201138/rss-feed</link>
-            <guid isPermaLink="false">quote-0-1779549340016</guid>
-            <pubDate>Sat, 23 May 2026 15:15:40 GMT</pubDate>
-            <description><![CDATA[Hayatta en hakiki mürşit ilimdir: Mustafa Kemal Atatürk]]></description>
-            <author>Mustafa Kemal Atatürk</author>
+            <guid isPermaLink="false">quote-0-1779549460617</guid>
+            <pubDate>Sat, 23 May 2026 15:17:40 GMT</pubDate>
+            <description><![CDATA[Bilgiye yapılan yatırım, en yüksek faizi getirir: Benjamin Franklin]]></description>
+            <author>Benjamin Franklin</author>
         </item>
         <item>
-            <title><![CDATA[Söz 3]]></title>
+            <title><![CDATA[Söz 7]]></title>
             <link>https://github.com/cemal201138/rss-feed</link>
-            <guid isPermaLink="false">quote-1-1779549340016</guid>
-            <pubDate>Sat, 23 May 2026 15:15:40 GMT</pubDate>
-            <description><![CDATA[Zorluklar, başarının değerini artıran süslerdir: Moliere]]></description>
-            <author>Moliere</author>
+            <guid isPermaLink="false">quote-1-1779549460617</guid>
+            <pubDate>Sat, 23 May 2026 15:17:40 GMT</pubDate>
+            <description><![CDATA[Geleceği tahmin etmenin en iyi yolu onu yaratmaktır: Alan Kay]]></description>
+            <author>Alan Kay</author>
         </item>
         <item>
             <title><![CDATA[Söz 2]]></title>
             <link>https://github.com/cemal201138/rss-feed</link>
-            <guid isPermaLink="false">quote-2-1779549340016</guid>
-            <pubDate>Sat, 23 May 2026 15:15:40 GMT</pubDate>
+            <guid isPermaLink="false">quote-2-1779549460617</guid>
+            <pubDate>Sat, 23 May 2026 15:17:40 GMT</pubDate>
             <description><![CDATA[Bilim ve sanat takdir edilmediği yerden göç eder: İbn-i Sina]]></description>
             <author>İbn-i Sina</author>
+        </item>
+        <item>
+            <title><![CDATA[Söz 3]]></title>
+            <link>https://github.com/cemal201138/rss-feed</link>
+            <guid isPermaLink="false">quote-3-1779549460617</guid>
+            <pubDate>Sat, 23 May 2026 15:17:40 GMT</pubDate>
+            <description><![CDATA[Zorluklar, başarının değerini artıran süslerdir: Moliere]]></description>
+            <author>Moliere</author>
+        </item>
+        <item>
+            <title><![CDATA[Söz 9]]></title>
+            <link>https://github.com/cemal201138/rss-feed</link>
+            <guid isPermaLink="false">quote-4-1779549460617</guid>
+            <pubDate>Sat, 23 May 2026 15:17:40 GMT</pubDate>
+            <description><![CDATA[Hatalarla dolu bir hayat, bomboş geçirilmiş bir hayattan çok daha onurludur: George Bernard Shaw]]></description>
+            <author>George Bernard Shaw</author>
+        </item>
+        <item>
+            <title><![CDATA[Söz 5]]></title>
+            <link>https://github.com/cemal201138/rss-feed</link>
+            <guid isPermaLink="false">quote-5-1779549460617</guid>
+            <pubDate>Sat, 23 May 2026 15:17:40 GMT</pubDate>
+            <description><![CDATA[Hiçbir şey keşfedilmeyecek kadar uzak değildir: Galileo Galilei]]></description>
+            <author>Galileo Galilei</author>
+        </item>
+        <item>
+            <title><![CDATA[Söz 1]]></title>
+            <link>https://github.com/cemal201138/rss-feed</link>
+            <guid isPermaLink="false">quote-6-1779549460617</guid>
+            <pubDate>Sat, 23 May 2026 15:17:40 GMT</pubDate>
+            <description><![CDATA[Hayatta en hakiki mürşit ilimdir: Mustafa Kemal Atatürk]]></description>
+            <author>Mustafa Kemal Atatürk</author>
+        </item>
+        <item>
+            <title><![CDATA[Söz 6]]></title>
+            <link>https://github.com/cemal201138/rss-feed</link>
+            <guid isPermaLink="false">quote-7-1779549460617</guid>
+            <pubDate>Sat, 23 May 2026 15:17:40 GMT</pubDate>
+            <description><![CDATA[Eğitim, kıvılcımla ateş yakmaktır, boş bir kabı doldurmak değildir: Sokrates]]></description>
+            <author>Sokrates</author>
+        </item>
+        <item>
+            <title><![CDATA[Söz 4]]></title>
+            <link>https://github.com/cemal201138/rss-feed</link>
+            <guid isPermaLink="false">quote-8-1779549460617</guid>
+            <pubDate>Sat, 23 May 2026 15:17:40 GMT</pubDate>
+            <description><![CDATA[Düşünüyorum, öyleyse varım: René Descartes]]></description>
+            <author>René Descartes</author>
+        </item>
+        <item>
+            <title><![CDATA[Söz 8]]></title>
+            <link>https://github.com/cemal201138/rss-feed</link>
+            <guid isPermaLink="false">quote-9-1779549460617</guid>
+            <pubDate>Sat, 23 May 2026 15:17:40 GMT</pubDate>
+            <description><![CDATA[Önyargıları yok etmek, bir atom çekirdeğini parçalamaktan daha zordur: Albert Einstein]]></description>
+            <author>Albert Einstein</author>
         </item>
     </channel>
 </rss>
