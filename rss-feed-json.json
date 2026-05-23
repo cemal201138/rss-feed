@@ -13,5 +13,40 @@
     "title": "Söz 3",
     "description": "Zorluklar, başarının değerini artıran süslerdir: Moliere",
     "author": "Moliere"
+  },
+  {
+    "title": "Söz 4",
+    "description": "Düşünüyorum, öyleyse varım: René Descartes",
+    "author": "René Descartes"
+  },
+  {
+    "title": "Söz 5",
+    "description": "Hiçbir şey keşfedilmeyecek kadar uzak değildir: Galileo Galilei",
+    "author": "Galileo Galilei"
+  },
+  {
+    "title": "Söz 6",
+    "description": "Eğitim, kıvılcımla ateş yakmaktır, boş bir kabı doldurmak değildir: Sokrates",
+    "author": "Sokrates"
+  },
+  {
+    "title": "Söz 7",
+    "description": "Geleceği tahmin etmenin en iyi yolu onu yaratmaktır: Alan Kay",
+    "author": "Alan Kay"
+  },
+  {
+    "title": "Söz 8",
+    "description": "Önyargıları yok etmek, bir atom çekirdeğini parçalamaktan daha zordur: Albert Einstein",
+    "author": "Albert Einstein"
+  },
+  {
+    "title": "Söz 9",
+    "description": "Hatalarla dolu bir hayat, bomboş geçirilmiş bir hayattan çok daha onurludur: George Bernard Shaw",
+    "author": "George Bernard Shaw"
+  },
+  {
+    "title": "Söz 10",
+    "description": "Bilgiye yapılan yatırım, en yüksek faizi getirir: Benjamin Franklin",
+    "author": "Benjamin Franklin"
   }
 ]
