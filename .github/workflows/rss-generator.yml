@@ -1,1 +1,85 @@
-a
+name: JSON'dan Rastgele RSS Oluşturucu
+
+on:
+  schedule:
+    # Her saat başı otomatik çalışır (00:00, 01:00, 02:00...)
+    - cron: '0 * * * *'
+  workflow_dispatch: # İstediğiniz zaman elle tetiklemek için
+
+permissions:
+  contents: write # Oluşturulan feed.xml dosyasını repoya yazabilmek için
+
+jobs:
+  build-and-shuffle-rss:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Depoyu Klonla
+        uses: actions/checkout@v4
+
+      - name: Node.js Ortamını Kur
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Bağımlılıkları Kur
+        # RSS standardı üretmek için 'feed' kütüphanesini hızlıca kuruyoruz
+        run: npm install feed
+
+      - name: JSON'u Oku, Karıştır ve RSS Oluştur
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const { Feed } = require('feed');
+
+            // 1. JSON dosyasını yerel dizinden oku
+            const jsonPath = './rss-feed-json.json';
+            if (!fs.existsSync(jsonPath)) {
+              core.setFailed('rss-feed-json.json dosyası bulunamadı!');
+              return;
+            }
+            
+            const rawData = fs.readFileSync(jsonPath, 'utf8');
+            let quotes = JSON.parse(rawData);
+
+            // 2. Fisher-Yates algoritması ile sözleri rastgele karıştır (Shuffle)
+            for (let i = quotes.length - 1; i > 0; i--) {
+              const j = Math.floor(Math.random() * (i + 1));
+              [quotes[i], quotes[j]] = [quotes[j], quotes[i]];
+            }
+
+            // 3. RSS Feed yapısını oluştur
+            const feed = new Feed({
+              title: "Rastgele Sözler Akışı",
+              description: "Her saat rastgele karıştırılan güncel sözler feed'i.",
+              id: "https://github.com/cemal201138/rss-feed",
+              link: "https://github.com/cemal201138/rss-feed",
+              language: "tr",
+              copyright: `Tüm Hakları Saklıdır ${new Date().getFullYear()}`,
+              generator: "GitHub Actions RSS Generator"
+            });
+
+            // 4. Karıştırılmış sözleri feed'e ekle
+            quotes.forEach((quote, index) => {
+              feed.addItem({
+                title: quote.title || `Söz #${index + 1}`,
+                id: `quote-${index}-${Date.now()}`, // Benzersiz ID üretimi
+                link: "https://github.com/cemal201138/rss-feed",
+                description: quote.description,
+                author: [{ name: quote.author || "Anonim" }],
+                date: new Date()
+              });
+            });
+
+            // 5. XML çıktısını feed.xml olarak kaydet
+            fs.writeFileSync('./feed.xml', feed.rss2());
+            console.log('feed.xml başarıyla karıştırıldı ve oluşturuldu.');
+
+      - name: Değişiklikleri Depoya Yükle (Push)
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add feed.xml
+          # Sadece feed.xml içeriği gerçekten değiştiyse commit yapar
+          git diff-index --quiet HEAD || git commit -m "Güncelleme: RSS sözleri yeniden karıştırıldı"
+          git push
