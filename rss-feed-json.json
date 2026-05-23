@@ -1,1 +1,17 @@
-a
+[
+  {
+    "title": "Söz 1",
+    "description": "Hayatta en hakiki mürşit ilimdir.",
+    "author": "Mustafa Kemal Atatürk"
+  },
+  {
+    "title": "Söz 2",
+    "description": "Bilim ve sanat takdir edilmediği yerden göç eder.",
+    "author": "İbn-i Sina"
+  },
+  {
+    "title": "Söz 3",
+    "description": "Zorluklar, başarının değerini artıran süslerdir.",
+    "author": "Moliere"
+  }
+]
