@@ -15,6 +15,9 @@ jobs:
     steps:
       - name: Depoyu Klonla
         uses: actions/checkout@v4
+        with:
+          # Tüm Git geçmişini çekerek çakışma yönetimini (pull/rebase) sorunsuz yapmasını sağlar
+          fetch-depth: 0
 
       - name: Node.js Ortamını Kur
         uses: actions/setup-node@v4
@@ -84,7 +87,19 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # Değişiklikleri yerelde index'e ekle
           git add feed.xml
+          
           # Sadece feed.xml içeriği gerçekten değiştiyse commit yapar
-          git diff-index --quiet HEAD || git commit -m "Güncelleme: RSS için yeni rastgele söz seçildi"
-          git push
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "Güncelleme: RSS için yeni rastgele söz seçildi"
+            
+            # [KRİTİK DÜZELTME]: Göndermeden önce uzak depodaki değişiklikleri çek ve üzerine rebase et
+            git pull --rebase origin main
+            
+            # Güvenli bir şekilde push yap
+            git push origin main
+          else
+            echo "Herhangi bir değişiklik yok, push yapılmadı."
+          fi
