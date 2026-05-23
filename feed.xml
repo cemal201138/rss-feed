@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Rastgele Sözler Akışı</title>
+        <link>https://github.com/cemal201138/rss-feed</link>
+        <description>Her saat rastgele karıştırılan güncel sözler feed'i.</description>
+        <lastBuildDate>Sat, 23 May 2026 15:03:41 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>GitHub Actions RSS Generator</generator>
+        <language>tr</language>
+        <copyright>Tüm Hakları Saklıdır 2026</copyright>
+        <item>
+            <title><![CDATA[Söz 3]]></title>
+            <link>https://github.com/cemal201138/rss-feed</link>
+            <guid isPermaLink="false">quote-0-1779548621124</guid>
+            <pubDate>Sat, 23 May 2026 15:03:41 GMT</pubDate>
+            <description><![CDATA[Zorluklar, başarının değerini artıran süslerdir.]]></description>
+            <author>Moliere</author>
+        </item>
+        <item>
+            <title><![CDATA[Söz 1]]></title>
+            <link>https://github.com/cemal201138/rss-feed</link>
+            <guid isPermaLink="false">quote-1-1779548621124</guid>
+            <pubDate>Sat, 23 May 2026 15:03:41 GMT</pubDate>
+            <description><![CDATA[Hayatta en hakiki mürşit ilimdir.]]></description>
+            <author>Mustafa Kemal Atatürk</author>
+        </item>
+        <item>
+            <title><![CDATA[Söz 2]]></title>
+            <link>https://github.com/cemal201138/rss-feed</link>
+            <guid isPermaLink="false">quote-2-1779548621124</guid>
+            <pubDate>Sat, 23 May 2026 15:03:41 GMT</pubDate>
+            <description><![CDATA[Bilim ve sanat takdir edilmediği yerden göç eder.]]></description>
+            <author>İbn-i Sina</author>
+        </item>
+    </channel>
+</rss>
