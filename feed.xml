@@ -4,18 +4,18 @@
         <title>Saatlik Rastgele Söz Akışı</title>
         <link>https://github.com/cemal201138/rss-feed</link>
         <description>Her saat rastgele seçilen bir sözü gösteren güncel RSS feed'i.</description>
-        <lastBuildDate>Mon, 25 May 2026 14:38:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 May 2026 17:01:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions RSS Generator</generator>
         <language>tr</language>
         <copyright>Tüm Hakları Saklıdır 2026</copyright>
         <item>
-            <title><![CDATA[Söz 101]]></title>
+            <title><![CDATA[Söz 103]]></title>
             <link>https://github.com/cemal201138/rss-feed</link>
-            <guid isPermaLink="false">quote-1779719880191</guid>
-            <pubDate>Mon, 25 May 2026 14:38:00 GMT</pubDate>
-            <description><![CDATA[En büyük keşif insanın kendisidir: Freud]]></description>
-            <author>Freud</author>
+            <guid isPermaLink="false">quote-1779728473124</guid>
+            <pubDate>Mon, 25 May 2026 17:01:13 GMT</pubDate>
+            <description><![CDATA[Başarı kararlılık ister: Abraham Lincoln]]></description>
+            <author>Abraham Lincoln</author>
         </item>
     </channel>
 </rss>
