@@ -48,5 +48,505 @@
     "title": "Söz 10",
     "description": "Bilgiye yapılan yatırım, en yüksek faizi getirir: Benjamin Franklin",
     "author": "Benjamin Franklin"
+  },
+  {
+    "title": "Söz 11",
+    "description": "Başarı, hazırlık ile fırsatın buluştuğu yerdir: Seneca",
+    "author": "Seneca"
+  },
+  {
+    "title": "Söz 12",
+    "description": "Kendini fetheden, dünyayı fethedenden büyüktür: Buddha",
+    "author": "Buddha"
+  },
+  {
+    "title": "Söz 13",
+    "description": "Azim, zekadan daha önemlidir: Albert Einstein",
+    "author": "Albert Einstein"
+  },
+  {
+    "title": "Söz 14",
+    "description": "Mutluluk, paylaştıkça çoğalır: Tolstoy",
+    "author": "Tolstoy"
+  },
+  {
+    "title": "Söz 15",
+    "description": "İnsan, hayal ettiği sürece yaşar: Yahya Kemal",
+    "author": "Yahya Kemal"
+  },
+  {
+    "title": "Söz 16",
+    "description": "Cesaret, korkuya rağmen devam etmektir: Nelson Mandela",
+    "author": "Nelson Mandela"
+  },
+  {
+    "title": "Söz 17",
+    "description": "Bilgelik, doğru soruları sormaktır: Konfüçyüs",
+    "author": "Konfüçyüs"
+  },
+  {
+    "title": "Söz 18",
+    "description": "Her şeyin başlangıcı küçük bir adımdır: Lao Tzu",
+    "author": "Lao Tzu"
+  },
+  {
+    "title": "Söz 19",
+    "description": "Vakit nakittir: Benjamin Franklin",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "title": "Söz 20",
+    "description": "Hayal gücü bilgiden daha önemlidir: Albert Einstein",
+    "author": "Albert Einstein"
+  },
+  {
+    "title": "Söz 21",
+    "description": "Çalışmadan yemek yemek isteyen önce çalışmalıdır: Mevlana",
+    "author": "Mevlana"
+  },
+  {
+    "title": "Söz 22",
+    "description": "En büyük zafer, hiç düşmemek değil her düştüğünde ayağa kalkmaktır: Konfüçyüs",
+    "author": "Konfüçyüs"
+  },
+  {
+    "title": "Söz 23",
+    "description": "Sabır, acıdır ama meyvesi tatlıdır: Aristoteles",
+    "author": "Aristoteles"
+  },
+  {
+    "title": "Söz 24",
+    "description": "Bir insanı tanımak istiyorsan ona güç ver: Abraham Lincoln",
+    "author": "Abraham Lincoln"
+  },
+  {
+    "title": "Söz 25",
+    "description": "Kelimeler insanın aynasıdır: Cervantes",
+    "author": "Cervantes"
+  },
+  {
+    "title": "Söz 26",
+    "description": "Barış evde başlar: Mother Teresa",
+    "author": "Mother Teresa"
+  },
+  {
+    "title": "Söz 27",
+    "description": "Hayat bisiklete binmek gibidir, dengede kalmak için ilerlemelisin: Albert Einstein",
+    "author": "Albert Einstein"
+  },
+  {
+    "title": "Söz 28",
+    "description": "Küçük işler büyük sevgilerle yapılır: Mother Teresa",
+    "author": "Mother Teresa"
+  },
+  {
+    "title": "Söz 29",
+    "description": "Bilmek yetmez, uygulamak gerekir: Goethe",
+    "author": "Goethe"
+  },
+  {
+    "title": "Söz 30",
+    "description": "Başarı son değil, başarısızlık ölümcül değildir: Winston Churchill",
+    "author": "Winston Churchill"
+  },
+  {
+    "title": "Söz 31",
+    "description": "İyi dost zor zamanda belli olur: Euripides",
+    "author": "Euripides"
+  },
+  {
+    "title": "Söz 32",
+    "description": "Özgürlük, sorumluluk gerektirir: George Bernard Shaw",
+    "author": "George Bernard Shaw"
+  },
+  {
+    "title": "Söz 33",
+    "description": "En karanlık gece bile sona erer: Victor Hugo",
+    "author": "Victor Hugo"
+  },
+  {
+    "title": "Söz 34",
+    "description": "Gerçek sevgi emek ister: Dostoyevski",
+    "author": "Dostoyevski"
+  },
+  {
+    "title": "Söz 35",
+    "description": "Adalet evrenin ruhudur: Ömer Hayyam",
+    "author": "Ömer Hayyam"
+  },
+  {
+    "title": "Söz 36",
+    "description": "Korkuların üzerine git, büyüdüğünü göreceksin: Nietzsche",
+    "author": "Nietzsche"
+  },
+  {
+    "title": "Söz 37",
+    "description": "Mutlu olmak için beklentiyi azalt: Epiktetos",
+    "author": "Epiktetos"
+  },
+  {
+    "title": "Söz 38",
+    "description": "Bilgi paylaşıldıkça çoğalır: Ali Kuşçu",
+    "author": "Ali Kuşçu"
+  },
+  {
+    "title": "Söz 39",
+    "description": "Her gün yeni bir başlangıçtır: Paulo Coelho",
+    "author": "Paulo Coelho"
+  },
+  {
+    "title": "Söz 40",
+    "description": "Başarı detaylarda gizlidir: Leonardo da Vinci",
+    "author": "Leonardo da Vinci"
+  },
+  {
+    "title": "Söz 41",
+    "description": "İnsan düşündüğü şeydir: Buddha",
+    "author": "Buddha"
+  },
+  {
+    "title": "Söz 42",
+    "description": "Dürüstlük en pahalı mücevherdir: Balzac",
+    "author": "Balzac"
+  },
+  {
+    "title": "Söz 43",
+    "description": "Hayatta en büyük risk hiç risk almamaktır: Mark Zuckerberg",
+    "author": "Mark Zuckerberg"
+  },
+  {
+    "title": "Söz 44",
+    "description": "Umut, uyanık insanın rüyasıdır: Aristoteles",
+    "author": "Aristoteles"
+  },
+  {
+    "title": "Söz 45",
+    "description": "Bilim insanı şüphe eden kişidir: Richard Feynman",
+    "author": "Richard Feynman"
+  },
+  {
+    "title": "Söz 46",
+    "description": "İnsanlara değer ver, karşılığını görürsün: Tolstoy",
+    "author": "Tolstoy"
+  },
+  {
+    "title": "Söz 47",
+    "description": "Başlamak bitirmenin yarısıdır: Horatius",
+    "author": "Horatius"
+  },
+  {
+    "title": "Söz 48",
+    "description": "Kendine inanmak başarının ilk sırrıdır: Emerson",
+    "author": "Emerson"
+  },
+  {
+    "title": "Söz 49",
+    "description": "Mutluluk iç huzurundan gelir: Dalai Lama",
+    "author": "Dalai Lama"
+  },
+  {
+    "title": "Söz 50",
+    "description": "Bir mum diğerini tutuşturmakla ışığından kaybetmez: Mevlana",
+    "author": "Mevlana"
+  },
+  {
+    "title": "Söz 51",
+    "description": "Hayatta en büyük öğretmen deneyimdir: Julius Caesar",
+    "author": "Julius Caesar"
+  },
+  {
+    "title": "Söz 52",
+    "description": "Bilgelik sessizlikte büyür: Pisagor",
+    "author": "Pisagor"
+  },
+  {
+    "title": "Söz 53",
+    "description": "Gülümseme iki insan arasındaki en kısa mesafedir: Victor Borge",
+    "author": "Victor Borge"
+  },
+  {
+    "title": "Söz 54",
+    "description": "Hayat cesurları sever: Virgil",
+    "author": "Virgil"
+  },
+  {
+    "title": "Söz 55",
+    "description": "Başarı sürekli çabanın sonucudur: Napoleon Hill",
+    "author": "Napoleon Hill"
+  },
+  {
+    "title": "Söz 56",
+    "description": "Karanlığa sövmek yerine bir mum yak: Konfüçyüs",
+    "author": "Konfüçyüs"
+  },
+  {
+    "title": "Söz 57",
+    "description": "Doğa en büyük öğretmendir: Aristoteles",
+    "author": "Aristoteles"
+  },
+  {
+    "title": "Söz 58",
+    "description": "Sevgi insanın gerçek gücüdür: Gandhi",
+    "author": "Gandhi"
+  },
+  {
+    "title": "Söz 59",
+    "description": "Büyük işler küçük adımlarla başlar: Lao Tzu",
+    "author": "Lao Tzu"
+  },
+  {
+    "title": "Söz 60",
+    "description": "Düşmanının bile insan olduğunu unutma: Voltaire",
+    "author": "Voltaire"
+  },
+  {
+    "title": "Söz 61",
+    "description": "Akıl yaşta değil baştadır: Atasözü",
+    "author": "Atasözü"
+  },
+  {
+    "title": "Söz 62",
+    "description": "Hayat bir yolculuktur, varış noktası değil: Emerson",
+    "author": "Emerson"
+  },
+  {
+    "title": "Söz 63",
+    "description": "Başarı disiplinle gelir: Jim Rohn",
+    "author": "Jim Rohn"
+  },
+  {
+    "title": "Söz 64",
+    "description": "En iyi yatırım kendine yaptığındır: Warren Buffett",
+    "author": "Warren Buffett"
+  },
+  {
+    "title": "Söz 65",
+    "description": "İnsan hata yaparak öğrenir: Cicero",
+    "author": "Cicero"
+  },
+  {
+    "title": "Söz 66",
+    "description": "Hayal kurmayan geleceği göremez: Victor Hugo",
+    "author": "Victor Hugo"
+  },
+  {
+    "title": "Söz 67",
+    "description": "Zaman her şeyin ilacıdır: Cervantes",
+    "author": "Cervantes"
+  },
+  {
+    "title": "Söz 68",
+    "description": "Başarı sabırla yoğrulur: Hz. Ali",
+    "author": "Hz. Ali"
+  },
+  {
+    "title": "Söz 69",
+    "description": "Küçük mutlulukları kaçırma: Goethe",
+    "author": "Goethe"
+  },
+  {
+    "title": "Söz 70",
+    "description": "Bilim özgürlüğün ışığıdır: Carl Sagan",
+    "author": "Carl Sagan"
+  },
+  {
+    "title": "Söz 71",
+    "description": "Hayatta en değerli şey zamandır: Theophrastus",
+    "author": "Theophrastus"
+  },
+  {
+    "title": "Söz 72",
+    "description": "İnsan sevgisi en büyük erdemdir: Yunus Emre",
+    "author": "Yunus Emre"
+  },
+  {
+    "title": "Söz 73",
+    "description": "Çalışmak ruhu dinç tutar: Voltaire",
+    "author": "Voltaire"
+  },
+  {
+    "title": "Söz 74",
+    "description": "Kendi yolunu çizen kaybolmaz: Nietzsche",
+    "author": "Nietzsche"
+  },
+  {
+    "title": "Söz 75",
+    "description": "Başarı inanmakla başlar: Mustafa Kemal Atatürk",
+    "author": "Mustafa Kemal Atatürk"
+  },
+  {
+    "title": "Söz 76",
+    "description": "Hayat paylaşınca güzeldir: Nazım Hikmet",
+    "author": "Nazım Hikmet"
+  },
+  {
+    "title": "Söz 77",
+    "description": "Birlikten kuvvet doğar: Atasözü",
+    "author": "Atasözü"
+  },
+  {
+    "title": "Söz 78",
+    "description": "Gerçek güç bilgidedir: Francis Bacon",
+    "author": "Francis Bacon"
+  },
+  {
+    "title": "Söz 79",
+    "description": "Mutluluk sade yaşamda gizlidir: Thoreau",
+    "author": "Thoreau"
+  },
+  {
+    "title": "Söz 80",
+    "description": "Dostluk en büyük hazinedir: Cicero",
+    "author": "Cicero"
+  },
+  {
+    "title": "Söz 81",
+    "description": "Başarı emek ister: Thomas Edison",
+    "author": "Thomas Edison"
+  },
+  {
+    "title": "Söz 82",
+    "description": "Hayat öğrenmekten ibarettir: Sokrates",
+    "author": "Sokrates"
+  },
+  {
+    "title": "Söz 83",
+    "description": "İyilik yapan iyilik bulur: Atasözü",
+    "author": "Atasözü"
+  },
+  {
+    "title": "Söz 84",
+    "description": "Bilim insanlığı ileri taşır: Aziz Sancar",
+    "author": "Aziz Sancar"
+  },
+  {
+    "title": "Söz 85",
+    "description": "Sabır en büyük güçtür: Hz. Mevlana",
+    "author": "Hz. Mevlana"
+  },
+  {
+    "title": "Söz 86",
+    "description": "Hayat kısa, sanat uzundur: Hipokrat",
+    "author": "Hipokrat"
+  },
+  {
+    "title": "Söz 87",
+    "description": "İnsan sevdiği işi yapmalıdır: Steve Jobs",
+    "author": "Steve Jobs"
+  },
+  {
+    "title": "Söz 88",
+    "description": "Başarı risk almaktan geçer: Elon Musk",
+    "author": "Elon Musk"
+  },
+  {
+    "title": "Söz 89",
+    "description": "Bilgelik tecrübeyle gelir: Herakleitos",
+    "author": "Herakleitos"
+  },
+  {
+    "title": "Söz 90",
+    "description": "Hayat umutla güzeldir: Dostoyevski",
+    "author": "Dostoyevski"
+  },
+  {
+    "title": "Söz 91",
+    "description": "Kendini tanı, dünyayı anlarsın: Sokrates",
+    "author": "Sokrates"
+  },
+  {
+    "title": "Söz 92",
+    "description": "Mutluluk başarıdan değil huzurdan gelir: Gandhi",
+    "author": "Gandhi"
+  },
+  {
+    "title": "Söz 93",
+    "description": "İnsan düşünceleri kadar büyüktür: Blaise Pascal",
+    "author": "Blaise Pascal"
+  },
+  {
+    "title": "Söz 94",
+    "description": "Bilim sınır tanımaz: Marie Curie",
+    "author": "Marie Curie"
+  },
+  {
+    "title": "Söz 95",
+    "description": "Hayaller hedeflerin başlangıcıdır: Walt Disney",
+    "author": "Walt Disney"
+  },
+  {
+    "title": "Söz 96",
+    "description": "Doğru söz kalpten gelir: Yunus Emre",
+    "author": "Yunus Emre"
+  },
+  {
+    "title": "Söz 97",
+    "description": "Başarı vazgeçmeyenlerindir: Napoleon Bonaparte",
+    "author": "Napoleon Bonaparte"
+  },
+  {
+    "title": "Söz 98",
+    "description": "Hayat cesur olanı ödüllendirir: Shakespeare",
+    "author": "Shakespeare"
+  },
+  {
+    "title": "Söz 99",
+    "description": "Bilgi özgürlüğün anahtarıdır: John Locke",
+    "author": "John Locke"
+  },
+  {
+    "title": "Söz 100",
+    "description": "İnsanlık sevgiyle büyür: Mevlana",
+    "author": "Mevlana"
+  },
+  {
+    "title": "Söz 101",
+    "description": "En büyük keşif insanın kendisidir: Freud",
+    "author": "Freud"
+  },
+  {
+    "title": "Söz 102",
+    "description": "Hayatın anlamı üretmektir: Nikola Tesla",
+    "author": "Nikola Tesla"
+  },
+  {
+    "title": "Söz 103",
+    "description": "Başarı kararlılık ister: Abraham Lincoln",
+    "author": "Abraham Lincoln"
+  },
+  {
+    "title": "Söz 104",
+    "description": "İnsan umut ettiği sürece yaşar: Dostoyevski",
+    "author": "Dostoyevski"
+  },
+  {
+    "title": "Söz 105",
+    "description": "Bilim geleceğin pusulasıdır: Stephen Hawking",
+    "author": "Stephen Hawking"
+  },
+  {
+    "title": "Söz 106",
+    "description": "Düşünmek özgürlüğün başlangıcıdır: Voltaire",
+    "author": "Voltaire"
+  },
+  {
+    "title": "Söz 107",
+    "description": "Çalışmak başarının anahtarıdır: Thomas Edison",
+    "author": "Thomas Edison"
+  },
+  {
+    "title": "Söz 108",
+    "description": "Hayatta en büyük güç sevgidir: Tolstoy",
+    "author": "Tolstoy"
+  },
+  {
+    "title": "Söz 109",
+    "description": "Başarı küçük çabaların toplamıdır: Robert Collier",
+    "author": "Robert Collier"
+  },
+  {
+    "title": "Söz 110",
+    "description": "Bilgi insanı özgürleştirir: Sokrates",
+    "author": "Sokrates"
   }
 ]
