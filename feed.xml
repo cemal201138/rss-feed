@@ -4,18 +4,18 @@
         <title>Saatlik Rastgele Söz Akışı</title>
         <link>https://github.com/cemal201138/rss-feed</link>
         <description>Her saat rastgele seçilen bir sözü gösteren güncel RSS feed'i.</description>
-        <lastBuildDate>Tue, 26 May 2026 03:36:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 May 2026 07:37:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions RSS Generator</generator>
         <language>tr</language>
         <copyright>Tüm Hakları Saklıdır 2026</copyright>
         <item>
-            <title><![CDATA[Söz 83]]></title>
+            <title><![CDATA[Söz 64]]></title>
             <link>https://github.com/cemal201138/rss-feed</link>
-            <guid isPermaLink="false">quote-1779766581170</guid>
-            <pubDate>Tue, 26 May 2026 03:36:21 GMT</pubDate>
-            <description><![CDATA[İyilik yapan iyilik bulur: Atasözü]]></description>
-            <author>Atasözü</author>
+            <guid isPermaLink="false">quote-1779781051895</guid>
+            <pubDate>Tue, 26 May 2026 07:37:31 GMT</pubDate>
+            <description><![CDATA[En iyi yatırım kendine yaptığındır: Warren Buffett]]></description>
+            <author>Warren Buffett</author>
         </item>
     </channel>
 </rss>
