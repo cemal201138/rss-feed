@@ -4,18 +4,18 @@
         <title>Saatlik Rastgele Söz Akışı</title>
         <link>https://github.com/cemal201138/rss-feed</link>
         <description>Her saat rastgele seçilen bir sözü gösteren güncel RSS feed'i.</description>
-        <lastBuildDate>Fri, 29 May 2026 16:38:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 May 2026 19:28:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions RSS Generator</generator>
         <language>tr</language>
         <copyright>Tüm Hakları Saklıdır 2026</copyright>
         <item>
-            <title><![CDATA[Söz 31]]></title>
+            <title><![CDATA[Söz 24]]></title>
             <link>https://github.com/cemal201138/rss-feed</link>
-            <guid isPermaLink="false">quote-1780072689448</guid>
-            <pubDate>Fri, 29 May 2026 16:38:09 GMT</pubDate>
-            <description><![CDATA[İyi dost zor zamanda belli olur: Euripides]]></description>
-            <author>Euripides</author>
+            <guid isPermaLink="false">quote-1780082898254</guid>
+            <pubDate>Fri, 29 May 2026 19:28:18 GMT</pubDate>
+            <description><![CDATA[Bir insanı tanımak istiyorsan ona güç ver: Abraham Lincoln]]></description>
+            <author>Abraham Lincoln</author>
         </item>
     </channel>
 </rss>
