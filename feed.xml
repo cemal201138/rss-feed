@@ -4,18 +4,18 @@
         <title>Saatlik Rastgele Söz Akışı</title>
         <link>https://github.com/cemal201138/rss-feed</link>
         <description>Her saat rastgele seçilen bir sözü gösteren güncel RSS feed'i.</description>
-        <lastBuildDate>Fri, 29 May 2026 21:46:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 May 2026 23:05:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions RSS Generator</generator>
         <language>tr</language>
         <copyright>Tüm Hakları Saklıdır 2026</copyright>
         <item>
-            <title><![CDATA[Söz 18]]></title>
+            <title><![CDATA[Söz 81]]></title>
             <link>https://github.com/cemal201138/rss-feed</link>
-            <guid isPermaLink="false">quote-1780091212904</guid>
-            <pubDate>Fri, 29 May 2026 21:46:52 GMT</pubDate>
-            <description><![CDATA[Her şeyin başlangıcı küçük bir adımdır: Lao Tzu]]></description>
-            <author>Lao Tzu</author>
+            <guid isPermaLink="false">quote-1780095922113</guid>
+            <pubDate>Fri, 29 May 2026 23:05:22 GMT</pubDate>
+            <description><![CDATA[Başarı emek ister: Thomas Edison]]></description>
+            <author>Thomas Edison</author>
         </item>
     </channel>
 </rss>
