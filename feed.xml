@@ -4,18 +4,18 @@
         <title>Saatlik Rastgele Söz Akışı</title>
         <link>https://github.com/cemal201138/rss-feed</link>
         <description>Her saat rastgele seçilen bir sözü gösteren güncel RSS feed'i.</description>
-        <lastBuildDate>Sat, 30 May 2026 19:16:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 May 2026 20:46:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions RSS Generator</generator>
         <language>tr</language>
         <copyright>Tüm Hakları Saklıdır 2026</copyright>
         <item>
-            <title><![CDATA[Söz 88]]></title>
+            <title><![CDATA[Söz 51]]></title>
             <link>https://github.com/cemal201138/rss-feed</link>
-            <guid isPermaLink="false">quote-1780168563288</guid>
-            <pubDate>Sat, 30 May 2026 19:16:03 GMT</pubDate>
-            <description><![CDATA[Başarı risk almaktan geçer: Elon Musk]]></description>
-            <author>Elon Musk</author>
+            <guid isPermaLink="false">quote-1780174003308</guid>
+            <pubDate>Sat, 30 May 2026 20:46:43 GMT</pubDate>
+            <description><![CDATA[Hayatta en büyük öğretmen deneyimdir: Julius Caesar]]></description>
+            <author>Julius Caesar</author>
         </item>
     </channel>
 </rss>
