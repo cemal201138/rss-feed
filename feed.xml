@@ -4,18 +4,18 @@
         <title>Saatlik Rastgele Söz Akışı</title>
         <link>https://github.com/cemal201138/rss-feed</link>
         <description>Her saat rastgele seçilen bir sözü gösteren güncel RSS feed'i.</description>
-        <lastBuildDate>Sun, 31 May 2026 09:43:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 May 2026 11:28:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions RSS Generator</generator>
         <language>tr</language>
         <copyright>Tüm Hakları Saklıdır 2026</copyright>
         <item>
-            <title><![CDATA[Söz 68]]></title>
+            <title><![CDATA[Söz 99]]></title>
             <link>https://github.com/cemal201138/rss-feed</link>
-            <guid isPermaLink="false">quote-1780220634986</guid>
-            <pubDate>Sun, 31 May 2026 09:43:54 GMT</pubDate>
-            <description><![CDATA[Başarı sabırla yoğrulur: Hz. Ali]]></description>
-            <author>Hz. Ali</author>
+            <guid isPermaLink="false">quote-1780226935579</guid>
+            <pubDate>Sun, 31 May 2026 11:28:55 GMT</pubDate>
+            <description><![CDATA[Bilgi özgürlüğün anahtarıdır: John Locke]]></description>
+            <author>John Locke</author>
         </item>
     </channel>
 </rss>
