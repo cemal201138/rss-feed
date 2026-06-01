@@ -4,18 +4,18 @@
         <title>Saatlik Rastgele Söz Akışı</title>
         <link>https://github.com/cemal201138/rss-feed</link>
         <description>Her saat rastgele seçilen bir sözü gösteren güncel RSS feed'i.</description>
-        <lastBuildDate>Mon, 01 Jun 2026 16:32:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jun 2026 20:51:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions RSS Generator</generator>
         <language>tr</language>
         <copyright>Tüm Hakları Saklıdır 2026</copyright>
         <item>
-            <title><![CDATA[Söz 29]]></title>
+            <title><![CDATA[Söz 86]]></title>
             <link>https://github.com/cemal201138/rss-feed</link>
-            <guid isPermaLink="false">quote-1780331550781</guid>
-            <pubDate>Mon, 01 Jun 2026 16:32:30 GMT</pubDate>
-            <description><![CDATA[Bilmek yetmez, uygulamak gerekir: Goethe]]></description>
-            <author>Goethe</author>
+            <guid isPermaLink="false">quote-1780347078359</guid>
+            <pubDate>Mon, 01 Jun 2026 20:51:18 GMT</pubDate>
+            <description><![CDATA[Hayat kısa, sanat uzundur: Hipokrat]]></description>
+            <author>Hipokrat</author>
         </item>
     </channel>
 </rss>
