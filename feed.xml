@@ -4,18 +4,18 @@
         <title>Saatlik Rastgele Söz Akışı</title>
         <link>https://github.com/cemal201138/rss-feed</link>
         <description>Her saat rastgele seçilen bir sözü gösteren güncel RSS feed'i.</description>
-        <lastBuildDate>Sat, 06 Jun 2026 13:11:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Jun 2026 15:06:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions RSS Generator</generator>
         <language>tr</language>
         <copyright>Tüm Hakları Saklıdır 2026</copyright>
         <item>
-            <title><![CDATA[Söz 14]]></title>
+            <title><![CDATA[Söz 33]]></title>
             <link>https://github.com/cemal201138/rss-feed</link>
-            <guid isPermaLink="false">quote-1780751495967</guid>
-            <pubDate>Sat, 06 Jun 2026 13:11:35 GMT</pubDate>
-            <description><![CDATA[Mutluluk, paylaştıkça çoğalır: Tolstoy]]></description>
-            <author>Tolstoy</author>
+            <guid isPermaLink="false">quote-1780758417211</guid>
+            <pubDate>Sat, 06 Jun 2026 15:06:57 GMT</pubDate>
+            <description><![CDATA[En karanlık gece bile sona erer: Victor Hugo]]></description>
+            <author>Victor Hugo</author>
         </item>
     </channel>
 </rss>
