@@ -4,18 +4,18 @@
         <title>Saatlik Rastgele Söz Akışı</title>
         <link>https://github.com/cemal201138/rss-feed</link>
         <description>Her saat rastgele seçilen bir sözü gösteren güncel RSS feed'i.</description>
-        <lastBuildDate>Sun, 07 Jun 2026 16:08:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jun 2026 17:59:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions RSS Generator</generator>
         <language>tr</language>
         <copyright>Tüm Hakları Saklıdır 2026</copyright>
         <item>
-            <title><![CDATA[Söz 22]]></title>
+            <title><![CDATA[Söz 7]]></title>
             <link>https://github.com/cemal201138/rss-feed</link>
-            <guid isPermaLink="false">quote-1780848484074</guid>
-            <pubDate>Sun, 07 Jun 2026 16:08:04 GMT</pubDate>
-            <description><![CDATA[En büyük zafer, hiç düşmemek değil her düştüğünde ayağa kalkmaktır: Konfüçyüs]]></description>
-            <author>Konfüçyüs</author>
+            <guid isPermaLink="false">quote-1780855144093</guid>
+            <pubDate>Sun, 07 Jun 2026 17:59:04 GMT</pubDate>
+            <description><![CDATA[Geleceği tahmin etmenin en iyi yolu onu yaratmaktır: Alan Kay]]></description>
+            <author>Alan Kay</author>
         </item>
     </channel>
 </rss>
