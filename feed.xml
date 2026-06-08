@@ -4,18 +4,18 @@
         <title>Saatlik Rastgele Söz Akışı</title>
         <link>https://github.com/cemal201138/rss-feed</link>
         <description>Her saat rastgele seçilen bir sözü gösteren güncel RSS feed'i.</description>
-        <lastBuildDate>Sun, 07 Jun 2026 22:56:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jun 2026 00:02:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions RSS Generator</generator>
         <language>tr</language>
         <copyright>Tüm Hakları Saklıdır 2026</copyright>
         <item>
-            <title><![CDATA[Söz 24]]></title>
+            <title><![CDATA[Söz 59]]></title>
             <link>https://github.com/cemal201138/rss-feed</link>
-            <guid isPermaLink="false">quote-1780872971873</guid>
-            <pubDate>Sun, 07 Jun 2026 22:56:11 GMT</pubDate>
-            <description><![CDATA[Bir insanı tanımak istiyorsan ona güç ver: Abraham Lincoln]]></description>
-            <author>Abraham Lincoln</author>
+            <guid isPermaLink="false">quote-1780876939677</guid>
+            <pubDate>Mon, 08 Jun 2026 00:02:19 GMT</pubDate>
+            <description><![CDATA[Büyük işler küçük adımlarla başlar: Lao Tzu]]></description>
+            <author>Lao Tzu</author>
         </item>
     </channel>
 </rss>
