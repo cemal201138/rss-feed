@@ -4,18 +4,18 @@
         <title>Saatlik Rastgele Söz Akışı</title>
         <link>https://github.com/cemal201138/rss-feed</link>
         <description>Her saat rastgele seçilen bir sözü gösteren güncel RSS feed'i.</description>
-        <lastBuildDate>Mon, 08 Jun 2026 22:19:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jun 2026 23:58:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions RSS Generator</generator>
         <language>tr</language>
         <copyright>Tüm Hakları Saklıdır 2026</copyright>
         <item>
-            <title><![CDATA[Söz 46]]></title>
+            <title><![CDATA[Söz 92]]></title>
             <link>https://github.com/cemal201138/rss-feed</link>
-            <guid isPermaLink="false">quote-1780957194057</guid>
-            <pubDate>Mon, 08 Jun 2026 22:19:54 GMT</pubDate>
-            <description><![CDATA[İnsanlara değer ver, karşılığını görürsün: Tolstoy]]></description>
-            <author>Tolstoy</author>
+            <guid isPermaLink="false">quote-1780963111608</guid>
+            <pubDate>Mon, 08 Jun 2026 23:58:31 GMT</pubDate>
+            <description><![CDATA[Mutluluk başarıdan değil huzurdan gelir: Gandhi]]></description>
+            <author>Gandhi</author>
         </item>
     </channel>
 </rss>
