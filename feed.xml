@@ -4,18 +4,18 @@
         <title>Saatlik Rastgele Söz Akışı</title>
         <link>https://github.com/cemal201138/rss-feed</link>
         <description>Her saat rastgele seçilen bir sözü gösteren güncel RSS feed'i.</description>
-        <lastBuildDate>Mon, 08 Jun 2026 05:23:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jun 2026 10:20:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions RSS Generator</generator>
         <language>tr</language>
         <copyright>Tüm Hakları Saklıdır 2026</copyright>
         <item>
-            <title><![CDATA[Söz 63]]></title>
+            <title><![CDATA[Söz 96]]></title>
             <link>https://github.com/cemal201138/rss-feed</link>
-            <guid isPermaLink="false">quote-1780896238410</guid>
-            <pubDate>Mon, 08 Jun 2026 05:23:58 GMT</pubDate>
-            <description><![CDATA[Başarı disiplinle gelir: Jim Rohn]]></description>
-            <author>Jim Rohn</author>
+            <guid isPermaLink="false">quote-1780914027886</guid>
+            <pubDate>Mon, 08 Jun 2026 10:20:27 GMT</pubDate>
+            <description><![CDATA[Doğru söz kalpten gelir: Yunus Emre]]></description>
+            <author>Yunus Emre</author>
         </item>
     </channel>
 </rss>
