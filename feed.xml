@@ -4,18 +4,18 @@
         <title>Saatlik Rastgele Söz Akışı</title>
         <link>https://github.com/cemal201138/rss-feed</link>
         <description>Her saat rastgele seçilen bir sözü gösteren güncel RSS feed'i.</description>
-        <lastBuildDate>Tue, 09 Jun 2026 21:42:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jun 2026 23:13:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions RSS Generator</generator>
         <language>tr</language>
         <copyright>Tüm Hakları Saklıdır 2026</copyright>
         <item>
-            <title><![CDATA[Söz 82]]></title>
+            <title><![CDATA[Söz 88]]></title>
             <link>https://github.com/cemal201138/rss-feed</link>
-            <guid isPermaLink="false">quote-1781041370674</guid>
-            <pubDate>Tue, 09 Jun 2026 21:42:50 GMT</pubDate>
-            <description><![CDATA[Hayat öğrenmekten ibarettir: Sokrates]]></description>
-            <author>Sokrates</author>
+            <guid isPermaLink="false">quote-1781046800372</guid>
+            <pubDate>Tue, 09 Jun 2026 23:13:20 GMT</pubDate>
+            <description><![CDATA[Başarı risk almaktan geçer: Elon Musk]]></description>
+            <author>Elon Musk</author>
         </item>
     </channel>
 </rss>
