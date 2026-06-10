@@ -4,18 +4,18 @@
         <title>Saatlik Rastgele Söz Akışı</title>
         <link>https://github.com/cemal201138/rss-feed</link>
         <description>Her saat rastgele seçilen bir sözü gösteren güncel RSS feed'i.</description>
-        <lastBuildDate>Wed, 10 Jun 2026 17:55:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jun 2026 20:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions RSS Generator</generator>
         <language>tr</language>
         <copyright>Tüm Hakları Saklıdır 2026</copyright>
         <item>
-            <title><![CDATA[Söz 17]]></title>
+            <title><![CDATA[Söz 19]]></title>
             <link>https://github.com/cemal201138/rss-feed</link>
-            <guid isPermaLink="false">quote-1781114131730</guid>
-            <pubDate>Wed, 10 Jun 2026 17:55:31 GMT</pubDate>
-            <description><![CDATA[Bilgelik, doğru soruları sormaktır: Konfüçyüs]]></description>
-            <author>Konfüçyüs</author>
+            <guid isPermaLink="false">quote-1781122668821</guid>
+            <pubDate>Wed, 10 Jun 2026 20:17:48 GMT</pubDate>
+            <description><![CDATA[Vakit nakittir: Benjamin Franklin]]></description>
+            <author>Benjamin Franklin</author>
         </item>
     </channel>
 </rss>
