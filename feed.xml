@@ -4,18 +4,18 @@
         <title>Saatlik Rastgele Söz Akışı</title>
         <link>https://github.com/cemal201138/rss-feed</link>
         <description>Her saat rastgele seçilen bir sözü gösteren güncel RSS feed'i.</description>
-        <lastBuildDate>Wed, 10 Jun 2026 07:00:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jun 2026 11:32:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions RSS Generator</generator>
         <language>tr</language>
         <copyright>Tüm Hakları Saklıdır 2026</copyright>
         <item>
-            <title><![CDATA[Söz 69]]></title>
+            <title><![CDATA[Söz 49]]></title>
             <link>https://github.com/cemal201138/rss-feed</link>
-            <guid isPermaLink="false">quote-1781074855622</guid>
-            <pubDate>Wed, 10 Jun 2026 07:00:55 GMT</pubDate>
-            <description><![CDATA[Küçük mutlulukları kaçırma: Goethe]]></description>
-            <author>Goethe</author>
+            <guid isPermaLink="false">quote-1781091125320</guid>
+            <pubDate>Wed, 10 Jun 2026 11:32:05 GMT</pubDate>
+            <description><![CDATA[Mutluluk iç huzurundan gelir: Dalai Lama]]></description>
+            <author>Dalai Lama</author>
         </item>
     </channel>
 </rss>
