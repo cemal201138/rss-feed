@@ -4,18 +4,18 @@
         <title>Saatlik Rastgele Söz Akışı</title>
         <link>https://github.com/cemal201138/rss-feed</link>
         <description>Her saat rastgele seçilen bir sözü gösteren güncel RSS feed'i.</description>
-        <lastBuildDate>Thu, 11 Jun 2026 14:32:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jun 2026 18:08:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions RSS Generator</generator>
         <language>tr</language>
         <copyright>Tüm Hakları Saklıdır 2026</copyright>
         <item>
-            <title><![CDATA[Söz 72]]></title>
+            <title><![CDATA[Söz 16]]></title>
             <link>https://github.com/cemal201138/rss-feed</link>
-            <guid isPermaLink="false">quote-1781188320564</guid>
-            <pubDate>Thu, 11 Jun 2026 14:32:00 GMT</pubDate>
-            <description><![CDATA[İnsan sevgisi en büyük erdemdir: Yunus Emre]]></description>
-            <author>Yunus Emre</author>
+            <guid isPermaLink="false">quote-1781201285243</guid>
+            <pubDate>Thu, 11 Jun 2026 18:08:05 GMT</pubDate>
+            <description><![CDATA[Cesaret, korkuya rağmen devam etmektir: Nelson Mandela]]></description>
+            <author>Nelson Mandela</author>
         </item>
     </channel>
 </rss>
