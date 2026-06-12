@@ -4,18 +4,18 @@
         <title>Saatlik Rastgele Söz Akışı</title>
         <link>https://github.com/cemal201138/rss-feed</link>
         <description>Her saat rastgele seçilen bir sözü gösteren güncel RSS feed'i.</description>
-        <lastBuildDate>Fri, 12 Jun 2026 17:32:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jun 2026 19:56:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions RSS Generator</generator>
         <language>tr</language>
         <copyright>Tüm Hakları Saklıdır 2026</copyright>
         <item>
-            <title><![CDATA[Söz 48]]></title>
+            <title><![CDATA[Söz 41]]></title>
             <link>https://github.com/cemal201138/rss-feed</link>
-            <guid isPermaLink="false">quote-1781285563091</guid>
-            <pubDate>Fri, 12 Jun 2026 17:32:43 GMT</pubDate>
-            <description><![CDATA[Kendine inanmak başarının ilk sırrıdır: Emerson]]></description>
-            <author>Emerson</author>
+            <guid isPermaLink="false">quote-1781294190580</guid>
+            <pubDate>Fri, 12 Jun 2026 19:56:30 GMT</pubDate>
+            <description><![CDATA[İnsan düşündüğü şeydir: Buddha]]></description>
+            <author>Buddha</author>
         </item>
     </channel>
 </rss>
