@@ -4,18 +4,18 @@
         <title>Saatlik Rastgele Söz Akışı</title>
         <link>https://github.com/cemal201138/rss-feed</link>
         <description>Her saat rastgele seçilen bir sözü gösteren güncel RSS feed'i.</description>
-        <lastBuildDate>Fri, 12 Jun 2026 21:27:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jun 2026 23:09:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions RSS Generator</generator>
         <language>tr</language>
         <copyright>Tüm Hakları Saklıdır 2026</copyright>
         <item>
-            <title><![CDATA[Söz 95]]></title>
+            <title><![CDATA[Söz 57]]></title>
             <link>https://github.com/cemal201138/rss-feed</link>
-            <guid isPermaLink="false">quote-1781299674732</guid>
-            <pubDate>Fri, 12 Jun 2026 21:27:54 GMT</pubDate>
-            <description><![CDATA[Hayaller hedeflerin başlangıcıdır: Walt Disney]]></description>
-            <author>Walt Disney</author>
+            <guid isPermaLink="false">quote-1781305751875</guid>
+            <pubDate>Fri, 12 Jun 2026 23:09:11 GMT</pubDate>
+            <description><![CDATA[Doğa en büyük öğretmendir: Aristoteles]]></description>
+            <author>Aristoteles</author>
         </item>
     </channel>
 </rss>
