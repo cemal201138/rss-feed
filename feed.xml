@@ -4,18 +4,18 @@
         <title>Saatlik Rastgele Söz Akışı</title>
         <link>https://github.com/cemal201138/rss-feed</link>
         <description>Her saat rastgele seçilen bir sözü gösteren güncel RSS feed'i.</description>
-        <lastBuildDate>Sat, 13 Jun 2026 02:37:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jun 2026 06:52:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions RSS Generator</generator>
         <language>tr</language>
         <copyright>Tüm Hakları Saklıdır 2026</copyright>
         <item>
-            <title><![CDATA[Söz 106]]></title>
+            <title><![CDATA[Söz 41]]></title>
             <link>https://github.com/cemal201138/rss-feed</link>
-            <guid isPermaLink="false">quote-1781318241826</guid>
-            <pubDate>Sat, 13 Jun 2026 02:37:21 GMT</pubDate>
-            <description><![CDATA[Düşünmek özgürlüğün başlangıcıdır: Voltaire]]></description>
-            <author>Voltaire</author>
+            <guid isPermaLink="false">quote-1781333527422</guid>
+            <pubDate>Sat, 13 Jun 2026 06:52:07 GMT</pubDate>
+            <description><![CDATA[İnsan düşündüğü şeydir: Buddha]]></description>
+            <author>Buddha</author>
         </item>
     </channel>
 </rss>
