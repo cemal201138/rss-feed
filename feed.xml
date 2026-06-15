@@ -4,17 +4,17 @@
         <title>Saatlik Rastgele Söz Akışı</title>
         <link>https://github.com/cemal201138/rss-feed</link>
         <description>Her saat rastgele seçilen bir sözü gösteren güncel RSS feed'i.</description>
-        <lastBuildDate>Mon, 15 Jun 2026 08:52:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jun 2026 14:58:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions RSS Generator</generator>
         <language>tr</language>
         <copyright>Tüm Hakları Saklıdır 2026</copyright>
         <item>
-            <title><![CDATA[Söz 44]]></title>
+            <title><![CDATA[Söz 23]]></title>
             <link>https://github.com/cemal201138/rss-feed</link>
-            <guid isPermaLink="false">quote-1781513530966</guid>
-            <pubDate>Mon, 15 Jun 2026 08:52:10 GMT</pubDate>
-            <description><![CDATA[Umut, uyanık insanın rüyasıdır: Aristoteles]]></description>
+            <guid isPermaLink="false">quote-1781535487897</guid>
+            <pubDate>Mon, 15 Jun 2026 14:58:07 GMT</pubDate>
+            <description><![CDATA[Sabır, acıdır ama meyvesi tatlıdır: Aristoteles]]></description>
             <author>Aristoteles</author>
         </item>
     </channel>
