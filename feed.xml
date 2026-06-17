@@ -4,18 +4,18 @@
         <title>Saatlik Rastgele Söz Akışı</title>
         <link>https://github.com/cemal201138/rss-feed</link>
         <description>Her saat rastgele seçilen bir sözü gösteren güncel RSS feed'i.</description>
-        <lastBuildDate>Wed, 17 Jun 2026 14:54:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jun 2026 17:46:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions RSS Generator</generator>
         <language>tr</language>
         <copyright>Tüm Hakları Saklıdır 2026</copyright>
         <item>
-            <title><![CDATA[Söz 53]]></title>
+            <title><![CDATA[Söz 72]]></title>
             <link>https://github.com/cemal201138/rss-feed</link>
-            <guid isPermaLink="false">quote-1781708087059</guid>
-            <pubDate>Wed, 17 Jun 2026 14:54:47 GMT</pubDate>
-            <description><![CDATA[Gülümseme iki insan arasındaki en kısa mesafedir: Victor Borge]]></description>
-            <author>Victor Borge</author>
+            <guid isPermaLink="false">quote-1781718385313</guid>
+            <pubDate>Wed, 17 Jun 2026 17:46:25 GMT</pubDate>
+            <description><![CDATA[İnsan sevgisi en büyük erdemdir: Yunus Emre]]></description>
+            <author>Yunus Emre</author>
         </item>
     </channel>
 </rss>
