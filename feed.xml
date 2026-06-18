@@ -4,18 +4,18 @@
         <title>Saatlik Rastgele Söz Akışı</title>
         <link>https://github.com/cemal201138/rss-feed</link>
         <description>Her saat rastgele seçilen bir sözü gösteren güncel RSS feed'i.</description>
-        <lastBuildDate>Thu, 18 Jun 2026 10:08:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jun 2026 13:58:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions RSS Generator</generator>
         <language>tr</language>
         <copyright>Tüm Hakları Saklıdır 2026</copyright>
         <item>
-            <title><![CDATA[Söz 28]]></title>
+            <title><![CDATA[Söz 16]]></title>
             <link>https://github.com/cemal201138/rss-feed</link>
-            <guid isPermaLink="false">quote-1781777290124</guid>
-            <pubDate>Thu, 18 Jun 2026 10:08:10 GMT</pubDate>
-            <description><![CDATA[Küçük işler büyük sevgilerle yapılır: Mother Teresa]]></description>
-            <author>Mother Teresa</author>
+            <guid isPermaLink="false">quote-1781791086412</guid>
+            <pubDate>Thu, 18 Jun 2026 13:58:06 GMT</pubDate>
+            <description><![CDATA[Cesaret, korkuya rağmen devam etmektir: Nelson Mandela]]></description>
+            <author>Nelson Mandela</author>
         </item>
     </channel>
 </rss>
