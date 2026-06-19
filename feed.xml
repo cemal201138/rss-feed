@@ -4,18 +4,18 @@
         <title>Saatlik Rastgele Söz Akışı</title>
         <link>https://github.com/cemal201138/rss-feed</link>
         <description>Her saat rastgele seçilen bir sözü gösteren güncel RSS feed'i.</description>
-        <lastBuildDate>Fri, 19 Jun 2026 15:56:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jun 2026 17:53:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions RSS Generator</generator>
         <language>tr</language>
         <copyright>Tüm Hakları Saklıdır 2026</copyright>
         <item>
-            <title><![CDATA[Söz 68]]></title>
+            <title><![CDATA[Söz 11]]></title>
             <link>https://github.com/cemal201138/rss-feed</link>
-            <guid isPermaLink="false">quote-1781884608984</guid>
-            <pubDate>Fri, 19 Jun 2026 15:56:48 GMT</pubDate>
-            <description><![CDATA[Başarı sabırla yoğrulur: Hz. Ali]]></description>
-            <author>Hz. Ali</author>
+            <guid isPermaLink="false">quote-1781891592735</guid>
+            <pubDate>Fri, 19 Jun 2026 17:53:12 GMT</pubDate>
+            <description><![CDATA[Başarı, hazırlık ile fırsatın buluştuğu yerdir: Seneca]]></description>
+            <author>Seneca</author>
         </item>
     </channel>
 </rss>
