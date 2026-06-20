@@ -4,18 +4,18 @@
         <title>Saatlik Rastgele Söz Akışı</title>
         <link>https://github.com/cemal201138/rss-feed</link>
         <description>Her saat rastgele seçilen bir sözü gösteren güncel RSS feed'i.</description>
-        <lastBuildDate>Sat, 20 Jun 2026 17:17:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Jun 2026 19:12:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions RSS Generator</generator>
         <language>tr</language>
         <copyright>Tüm Hakları Saklıdır 2026</copyright>
         <item>
-            <title><![CDATA[Söz 85]]></title>
+            <title><![CDATA[Söz 105]]></title>
             <link>https://github.com/cemal201138/rss-feed</link>
-            <guid isPermaLink="false">quote-1781975834281</guid>
-            <pubDate>Sat, 20 Jun 2026 17:17:14 GMT</pubDate>
-            <description><![CDATA[Sabır en büyük güçtür: Hz. Mevlana]]></description>
-            <author>Hz. Mevlana</author>
+            <guid isPermaLink="false">quote-1781982726714</guid>
+            <pubDate>Sat, 20 Jun 2026 19:12:06 GMT</pubDate>
+            <description><![CDATA[Bilim geleceğin pusulasıdır: Stephen Hawking]]></description>
+            <author>Stephen Hawking</author>
         </item>
     </channel>
 </rss>
