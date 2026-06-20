@@ -4,18 +4,18 @@
         <title>Saatlik Rastgele Söz Akışı</title>
         <link>https://github.com/cemal201138/rss-feed</link>
         <description>Her saat rastgele seçilen bir sözü gösteren güncel RSS feed'i.</description>
-        <lastBuildDate>Sat, 20 Jun 2026 13:43:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Jun 2026 15:29:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions RSS Generator</generator>
         <language>tr</language>
         <copyright>Tüm Hakları Saklıdır 2026</copyright>
         <item>
-            <title><![CDATA[Söz 61]]></title>
+            <title><![CDATA[Söz 105]]></title>
             <link>https://github.com/cemal201138/rss-feed</link>
-            <guid isPermaLink="false">quote-1781962982855</guid>
-            <pubDate>Sat, 20 Jun 2026 13:43:02 GMT</pubDate>
-            <description><![CDATA[Akıl yaşta değil baştadır: Atasözü]]></description>
-            <author>Atasözü</author>
+            <guid isPermaLink="false">quote-1781969369637</guid>
+            <pubDate>Sat, 20 Jun 2026 15:29:29 GMT</pubDate>
+            <description><![CDATA[Bilim geleceğin pusulasıdır: Stephen Hawking]]></description>
+            <author>Stephen Hawking</author>
         </item>
     </channel>
 </rss>
