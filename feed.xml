@@ -4,18 +4,18 @@
         <title>Saatlik Rastgele Söz Akışı</title>
         <link>https://github.com/cemal201138/rss-feed</link>
         <description>Her saat rastgele seçilen bir sözü gösteren güncel RSS feed'i.</description>
-        <lastBuildDate>Mon, 22 Jun 2026 08:51:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jun 2026 14:29:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions RSS Generator</generator>
         <language>tr</language>
         <copyright>Tüm Hakları Saklıdır 2026</copyright>
         <item>
-            <title><![CDATA[Söz 58]]></title>
+            <title><![CDATA[Söz 1]]></title>
             <link>https://github.com/cemal201138/rss-feed</link>
-            <guid isPermaLink="false">quote-1782118299083</guid>
-            <pubDate>Mon, 22 Jun 2026 08:51:39 GMT</pubDate>
-            <description><![CDATA[Sevgi insanın gerçek gücüdür: Gandhi]]></description>
-            <author>Gandhi</author>
+            <guid isPermaLink="false">quote-1782138563981</guid>
+            <pubDate>Mon, 22 Jun 2026 14:29:23 GMT</pubDate>
+            <description><![CDATA[Hayatta en hakiki mürşit ilimdir: Mustafa Kemal Atatürk]]></description>
+            <author>Mustafa Kemal Atatürk</author>
         </item>
     </channel>
 </rss>
