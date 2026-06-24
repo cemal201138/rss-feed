@@ -95,8 +95,8 @@ jobs:
           if ! git diff-index --quiet HEAD; then
             git commit -m "Güncelleme: RSS için yeni rastgele söz seçildi"
             
-            # [KRİTİK DÜZELTME]: Göndermeden önce uzak depodaki değişiklikleri çek ve üzerine rebase et
-            git pull --rebase origin main
+            # [KRİTİK DÜZELTME]: Çakışma olursa otomatik olarak botun yeni ürettiği dosyayı kabul et (-X theirs)
+            git pull --rebase -X theirs origin main
             
             # Güvenli bir şekilde push yap
             git push origin main
