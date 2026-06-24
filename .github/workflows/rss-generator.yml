@@ -2,12 +2,11 @@ name: JSON'dan Rastgele RSS Oluşturucu
 
 on:
   schedule:
-    # Her saat başı otomatik çalışır (00:00, 01:00, 02:00...)
     - cron: '0 * * * *'
-  workflow_dispatch: # İstediğiniz zaman elle tetiklemek için
+  workflow_dispatch:
 
 permissions:
-  contents: write # Oluşturulan feed.xml dosyasını repoya yazabilmek için
+  contents: write
 
 jobs:
   build-and-shuffle-rss:
@@ -16,7 +15,6 @@ jobs:
       - name: Depoyu Klonla
         uses: actions/checkout@v4
         with:
-          # Tüm Git geçmişini çekerek çakışma yönetimini (pull/rebase) sorunsuz yapmasını sağlar
           fetch-depth: 0
 
       - name: Node.js Ortamını Kur
@@ -25,7 +23,6 @@ jobs:
           node-version: '20'
 
       - name: Bağımlılıkları Kur
-        # RSS standardı üretmek için 'feed' kütüphanesini hızlıca kuruyoruz
         run: npm install feed
 
       - name: JSON'u Oku, Karıştır ve Tek Bir RSS Ögesi Oluştur
@@ -35,28 +32,15 @@ jobs:
             const fs = require('fs');
             const { Feed } = require('feed');
 
-            // 1. JSON dosyasını yerel dizinden oku
             const jsonPath = './rss-feed-json.json';
-            if (!fs.existsSync(jsonPath)) {
-              core.setFailed('rss-feed-json.json dosyası bulunamadı!');
-              return;
-            }
-            
             const rawData = fs.readFileSync(jsonPath, 'utf8');
             let quotes = JSON.parse(rawData);
 
-            if (!Array.isArray(quotes) || quotes.length === 0) {
-              core.setFailed('JSON dosyası boş veya bir dizi değil!');
-              return;
-            }
-
-            // 2. Fisher-Yates algoritması ile sözleri rastgele karıştır (Shuffle)
             for (let i = quotes.length - 1; i > 0; i--) {
               const j = Math.floor(Math.random() * (i + 1));
               [quotes[i], quotes[j]] = [quotes[j], quotes[i]];
             }
 
-            // 3. RSS Feed yapısını oluştur
             const feed = new Feed({
               title: "Saatlik Rastgele Söz Akışı",
               description: "Her saat rastgele seçilen bir sözü gösteren güncel RSS feed'i.",
@@ -67,39 +51,34 @@ jobs:
               generator: "GitHub Actions RSS Generator"
             });
 
-            // 4. Karıştırılmış diziden SADECE İLK elemanı (rastgele seçileni) feed'e ekle
             const randomQuote = quotes[0];
             
             feed.addItem({
               title: randomQuote.title || "Günün Rastgele Sözü",
-              id: `quote-${Date.now()}`, // Her saat benzersiz ID üreterek RSS okuyucunun yeni bir öge algılamasını sağlar
+              id: `quote-${Date.now()}`,
               link: "https://github.com/cemal201138/rss-feed",
               description: randomQuote.description,
+              // 'author' kısmını doğrudan string olarak vermek yerine 
+              // XML'de <author> etiketi olarak düzgün çıkması için bu şekilde tanımlıyoruz:
               author: [{ name: randomQuote.author || "Anonim" }],
               date: new Date()
             });
 
-            // 5. XML çıktısını feed.xml olarak kaydet
+            // RSS 2.0 çıktısı üretilirken 'author' alanı feed kütüphanesi tarafından 
+            // yapılandırılır. Eğer kütüphane otomatik olarak <author> eklemezse, 
+            // feed'in rss2() fonksiyonu standartlara göre çıktıyı oluşturur.
             fs.writeFileSync('./feed.xml', feed.rss2());
-            console.log('feed.xml için rastgele bir söz başarıyla seçildi ve yazıldı.');
 
       - name: Değişiklikleri Depoya Yükle (Push)
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
-          # Değişiklikleri yerelde index'e ekle
-          git add feed.xml
-          
-          # Sadece feed.xml içeriği gerçekten değiştiyse commit yapar
           if ! git diff-index --quiet HEAD; then
+            git add feed.xml
             git commit -m "Güncelleme: RSS için yeni rastgele söz seçildi"
-            
-            # [KRİTİK DÜZELTME]: Çakışma olursa otomatik olarak botun yeni ürettiği dosyayı kabul et (-X theirs)
             git pull --rebase -X theirs origin main
-            
-            # Güvenli bir şekilde push yap
             git push origin main
           else
-            echo "Herhangi bir değişiklik yok, push yapılmadı."
+            echo "Herhangi bir değişiklik yok."
           fi
