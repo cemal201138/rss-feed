@@ -4,18 +4,18 @@
         <title>Saatlik Rastgele Söz Akışı</title>
         <link>https://github.com/cemal201138/rss-feed</link>
         <description>Her saat rastgele seçilen bir sözü gösteren güncel RSS feed'i.</description>
-        <lastBuildDate>Wed, 24 Jun 2026 09:59:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jun 2026 10:11:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions RSS Generator</generator>
         <language>tr</language>
         <copyright>Tüm Hakları Saklıdır 2026</copyright>
         <item>
-            <title><![CDATA[Söz 199]]></title>
+            <title><![CDATA[Söz 188]]></title>
             <link>https://github.com/cemal201138/rss-feed</link>
-            <guid isPermaLink="false">quote-1782295152548</guid>
-            <pubDate>Wed, 24 Jun 2026 09:59:12 GMT</pubDate>
-            <description><![CDATA[Zor olanı başarmak zaman alır, imkansız olanı başarmak ise biraz daha fazla: Çin Atasözü]]></description>
-            <author>Çin Atasözü</author>
+            <guid isPermaLink="false">quote-1782295876374</guid>
+            <pubDate>Wed, 24 Jun 2026 10:11:16 GMT</pubDate>
+            <description><![CDATA[Bir gün dönüp geriye baktığınızda, mücadele yıllarınızın en güzel yıllarınız olduğunu göreceksiniz: Sigmund Freud]]></description>
+            <author>Sigmund Freud</author>
         </item>
     </channel>
 </rss>
