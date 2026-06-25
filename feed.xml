@@ -4,18 +4,18 @@
         <title>Saatlik Rastgele Söz Akışı</title>
         <link>https://github.com/cemal201138/rss-feed</link>
         <description>Her saat rastgele seçilen bir sözü gösteren güncel RSS feed'i.</description>
-        <lastBuildDate>Thu, 25 Jun 2026 08:21:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jun 2026 11:33:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions RSS Generator</generator>
         <language>tr</language>
         <copyright>Tüm Hakları Saklıdır 2026</copyright>
         <item>
-            <title><![CDATA[Söz 134]]></title>
+            <title><![CDATA[Söz 124]]></title>
             <link>https://github.com/cemal201138/rss-feed</link>
-            <guid isPermaLink="false">quote-1782375691541</guid>
-            <pubDate>Thu, 25 Jun 2026 08:21:31 GMT</pubDate>
-            <description><![CDATA[Küçük bir kibrit koca bir ormanı yakabilir; küçük bir adım koca bir hayatı değiştirebilir]]></description>
-            <author>Leo Tolstoy</author>
+            <guid isPermaLink="false">quote-1782387184692</guid>
+            <pubDate>Thu, 25 Jun 2026 11:33:04 GMT</pubDate>
+            <description><![CDATA[Gözlerini yıldızlara dik, ayaklarını ise yere sağlam bas]]></description>
+            <author>Theodore Roosevelt</author>
         </item>
     </channel>
 </rss>
