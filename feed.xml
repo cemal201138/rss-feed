@@ -4,18 +4,18 @@
         <title>Saatlik Rastgele Söz Akışı</title>
         <link>https://github.com/cemal201138/rss-feed</link>
         <description>Her saat rastgele seçilen bir sözü gösteren güncel RSS feed'i.</description>
-        <lastBuildDate>Thu, 25 Jun 2026 23:09:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jun 2026 02:35:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions RSS Generator</generator>
         <language>tr</language>
         <copyright>Tüm Hakları Saklıdır 2026</copyright>
         <item>
-            <title><![CDATA[Söz 137]]></title>
+            <title><![CDATA[Söz 184]]></title>
             <link>https://github.com/cemal201138/rss-feed</link>
-            <guid isPermaLink="false">quote-1782428964073</guid>
-            <pubDate>Thu, 25 Jun 2026 23:09:24 GMT</pubDate>
-            <description><![CDATA[Aya uçun; ıskalasanız bile yıldızların arasına inersiniz]]></description>
-            <author>Les Brown</author>
+            <guid isPermaLink="false">quote-1782441312278</guid>
+            <pubDate>Fri, 26 Jun 2026 02:35:12 GMT</pubDate>
+            <description><![CDATA[Kendine meydan oku; çünkü senden başka bunu yapacak kimse yok]]></description>
+            <author>Anonymous</author>
         </item>
     </channel>
 </rss>
