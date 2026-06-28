@@ -4,18 +4,18 @@
         <title>Saatlik Rastgele Söz Akışı</title>
         <link>https://github.com/cemal201138/rss-feed</link>
         <description>Her saat rastgele seçilen bir sözü gösteren güncel RSS feed'i.</description>
-        <lastBuildDate>Sun, 28 Jun 2026 19:26:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jun 2026 20:53:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions RSS Generator</generator>
         <language>tr</language>
         <copyright>Tüm Hakları Saklıdır 2026</copyright>
         <item>
-            <title><![CDATA[Söz 126]]></title>
+            <title><![CDATA[Söz 120]]></title>
             <link>https://github.com/cemal201138/rss-feed</link>
-            <guid isPermaLink="false">quote-1782674797148</guid>
-            <pubDate>Sun, 28 Jun 2026 19:26:37 GMT</pubDate>
-            <description><![CDATA[Şampiyonlar salonlardan çıkmaz; içlerindeki tutku, hayal ve vizyondan çıkar]]></description>
-            <author>Muhammed Ali</author>
+            <guid isPermaLink="false">quote-1782679990510</guid>
+            <pubDate>Sun, 28 Jun 2026 20:53:10 GMT</pubDate>
+            <description><![CDATA[Her şanssızlık içinde daha büyük bir avantajın tohumunu barındırır]]></description>
+            <author>Napoleon Hill</author>
         </item>
     </channel>
 </rss>
