@@ -4,18 +4,18 @@
         <title>Saatlik Rastgele Söz Akışı</title>
         <link>https://github.com/cemal201138/rss-feed</link>
         <description>Her saat rastgele seçilen bir sözü gösteren güncel RSS feed'i.</description>
-        <lastBuildDate>Sun, 28 Jun 2026 00:03:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jun 2026 05:11:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>GitHub Actions RSS Generator</generator>
         <language>tr</language>
         <copyright>Tüm Hakları Saklıdır 2026</copyright>
         <item>
-            <title><![CDATA[Söz 65]]></title>
+            <title><![CDATA[Söz 166]]></title>
             <link>https://github.com/cemal201138/rss-feed</link>
-            <guid isPermaLink="false">quote-1782605001796</guid>
-            <pubDate>Sun, 28 Jun 2026 00:03:21 GMT</pubDate>
-            <description><![CDATA[İnsan hata yaparak öğrenir]]></description>
-            <author>Cicero</author>
+            <guid isPermaLink="false">quote-1782623496766</guid>
+            <pubDate>Sun, 28 Jun 2026 05:11:36 GMT</pubDate>
+            <description><![CDATA[Başkalarının sınırları sizin gerçeğiniz olmak zorunda değildir]]></description>
+            <author>Les Brown</author>
         </item>
     </channel>
 </rss>
